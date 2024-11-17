@@ -21,6 +21,7 @@
 1. Canva
 2. HTML
 3. CSS
+4. JavaScript 
 
 ### How to start?
 
