@@ -18,10 +18,9 @@
 
 ---
 
-1. React.js
-2. Redux Toolkit
-3. ReactStrap
-4. CSS
+1. Canva
+2. HTML
+3. CSS
 
 ### How to start?
 
